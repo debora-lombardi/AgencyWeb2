@@ -197,19 +197,42 @@ main{
 }
 
 .content-service h3{
-    font-family: var(--font-family-primary);
-    font-size: var(--font-size-h3);
-    font-weight: var(--font-weight-h3);
+    font-family: var(--font-family-primary); /* Família da fonte */
+    font-size: var(--font-size-h3); /* Tamanho da fonte */
+    font-weight: var(--font-weight-h3); /* Cor do texto */
     width: 420px;
 }
 .content-service h3 span{
-    color: var( --color-blue);
+    color: var( --color-blue); /* Cor do texto */
 }
 
 .content-service p{
-    font-family: var(--font-family-primary);
-    line-height: 27px;
-    width: 445px;
-    color: var(--color-gray);
+    font-family: var(--font-family-primary); /* Família da fonte */
+    line-height: 27px; /* Espassamento entre as linhas */
+    width: 445px; /* largura */
+    color: var(--color-gray); /* Cor do texto */
 
+}
+
+.section-benefit{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card-benefit{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    align-items: center;
+    padding: 60px 48px;
+    border-radius: 20px;
+}
+
+.card-benefit p{
+    width: 458px;
+}
+
+.card-benefit-secundary{
+    background-color: #F4F4F4;
 }
