@@ -24,6 +24,7 @@
     --font-size-h2: 30px; /* Variável tamanho de fonte */
     --font-size-h3: 25px; /* Variável tamanho de fonte */
     --font-size-h4: 18px; /* Variável tamanho de fonte */
+
     --font-size-body: 16px; /* Variável tamanho de fonte */
     --font-size-button: 16px; /* Variável tamanho de fonte */
     --font-size-caption: 14px; /* Variável tamanho de fonte */
@@ -33,13 +34,13 @@
     --font-weight-h2: 600; /* Variável Espessura da fonte */
     --font-weight-h3: 600; /* Variável Espessura da fonte */
     --font-weight-h4: 500; /* Variável Espessura da fonte */
+    
     --font-weight-body: 400; /* Variável Espessura da fonte */
     --font-weight-button: 700; /* Variável Espessura da fonte */
     --font-weight-caption: 400; /* Variável Espessura da fonte */
 
     /* FAMILY */
     --font-family-primary: "Poppins", sans-serif; /* Variável família da fonte */ 
-
 
 }
 
