@@ -100,7 +100,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://www.linkedin.com/in/d%C3%A9bora-lombardi-9b0a583b5/">
+<a href="https://www.linkedin.com/in/debora-lombardi/">
 Débora Calu Lombardi</a>
  <br />
  
